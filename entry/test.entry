@@ -1,0 +1,4 @@
+modEntry = {
+	FileHooks = "lua/UWEExtension/Hooks.lua",
+	Priority = 90
+}
